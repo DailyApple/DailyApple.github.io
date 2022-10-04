@@ -9,6 +9,7 @@
         "RoleName": "Physician",
         "Latitude": -8.783195,
         "Longitude": 34.508523,
+        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
         "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
     },
     {
@@ -21,6 +22,7 @@
         "RoleName": "Patient",
         "Latitude": 12.769013,
         "Longitude": -85.602364,
+        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
         "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
     }
 
