@@ -1,0 +1,14 @@
+[
+    {
+        "PracticeId" : "470c00a0-a236-49ec-b1b4-261eac9e91d9",
+        "PracticeName" : "Test Practice",
+        "Url": "",
+        "Email": "admin@TestPractice.com",
+        "PhoneNumber": "(912)345-5678",
+        "StreetAddress": "123 Main St.",
+        "City": "Savannah", 
+        "State": "Georgia",
+        "ZipCode": "31406"
+    }
+
+]

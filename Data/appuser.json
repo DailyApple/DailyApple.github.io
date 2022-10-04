@@ -1,0 +1,27 @@
+[
+    {
+        "UserId" : "0a1c797a-3f79-4c48-b2a2-3f641a9498df",
+        "FirstName": "John",
+        "MiddleInitial": "A",
+        "LastName": "Smith",
+        "Email": "JohnASmithTest@gmail.com",
+        "PasswordHash": "Password1234@", 
+        "PhoneNumber": "(912)123-4567",
+        "RoleId": 1,
+        "RoleName": "Physician",
+        "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
+    },
+    {
+        "UserId" : "41d9c1f0-deb2-4a94-af74-178905061ff4",
+        "FirstName": "Testy",
+        "MiddleInitial": "T",
+        "LastName": "Testerson",
+        "Email": "TTesterson@gmail.com",
+        "PasswordHash": "Password1234@", 
+        "PhoneNumber": "(912)223-4432",
+        "RoleId": 2,
+        "RoleName": "Patient",
+        "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
+    }
+
+]
