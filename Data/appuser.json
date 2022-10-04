@@ -7,6 +7,8 @@
         "PhoneNumber": "(912)123-4567",
         "RoleId": 1,
         "RoleName": "Physician",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523,
         "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
     },
     {
@@ -17,6 +19,8 @@
         "PhoneNumber": "(912)223-4432",
         "RoleId": 2,
         "RoleName": "Patient",
+        "Latitude": 12.769013,
+        "Longitude": -85.602364,
         "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
     }
 
