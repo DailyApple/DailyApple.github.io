@@ -1,4 +1,5 @@
-[
+{
+   "Data": [ 
     {
         "UserId" : "0a1c797a-3f79-4c48-b2a2-3f641a9498df",
         "Name": "John Smith",
@@ -25,5 +26,5 @@
         "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
         "PracticeId": "470c00a0-a236-49ec-b1b4-261eac9e91d9"
     }
-
 ]
+}
